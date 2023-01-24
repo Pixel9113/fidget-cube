@@ -53,5 +53,5 @@ input.onGesture(Gesture.Shake, function () {
     }
 })
 input.onLogoEvent(TouchButtonEvent.Pressed, function () {
-    basic.showString("Help Help Help Help Help")
+    basic.showString("Help Help")
 })
